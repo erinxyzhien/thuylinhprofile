@@ -316,7 +316,7 @@
 
 .container__uni-img {
     width: 70%;
-    background-image: url(./assets/img/totnghiep.jpg);
+    background-image: url("./assets/img/totnghiep.jpg");
     background-size: cover;
     position: relative;
 }
